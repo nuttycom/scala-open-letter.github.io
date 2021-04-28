@@ -157,6 +157,7 @@ Signed:
 * Kevin Walter
 * kf Fellows
 * Konrad Malawski
+* Kris Nuttycombe
 * Krystal Maughan
 * Lars Albertsson
 * Lars Hupel
@@ -238,7 +239,6 @@ Signed:
 * Steve Buzzard
 * Stew O’Connor
 * Thomas Lockney
-* Thomas Switzer
 * Tobias Roeser
 * Todd Burnside
 * Tony Aldridge
